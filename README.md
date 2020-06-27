@@ -1,10 +1,12 @@
 # 2020-3D-Printed-Splints
 V 0.0
 
-Create 3D printable splint models using free and open-source software, including Meshmixer 3.5, Python 3.7, and Blender 2.8. 
-The video demo to create a 3D printable wrist model is published on YouTube (https://www.youtube.com/playlist?list=PLaEzUCLiIDZa7U0yNojkRk8dKdgbiMrrL).
+Create 3D printable splint models using free and open-source software, including Meshmixer 3.5, Python 3.7, and Blender 2.8. The video demo to create a 3D printable wrist model is published on YouTube (https://www.youtube.com/playlist?list=PLaEzUCLiIDZa7U0yNojkRk8dKdgbiMrrL).
+
 The link to Meshmixer 3.5: http://www.meshmixer.com/download.html
+
 The link to Blender 2.8: https://www.blender.org/download/releases/2-80/
+
 The link to Python 3.7: https://www.python.org/downloads/release/python-370/
 
 There are total five steps to create a 3D printable splint:
